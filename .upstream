@@ -1,5 +1,5 @@
 {
-    "name": "acme",
-    "fetch": "https://github.com/AcmeUI/android_external_zlib-ng",
-    "revision": "refs/heads/taffy"
+    "name": "yaap",
+    "fetch": "https://github.com/yaap/external_zlib-ng",
+    "revision": "refs/heads/fourteen"
 }
